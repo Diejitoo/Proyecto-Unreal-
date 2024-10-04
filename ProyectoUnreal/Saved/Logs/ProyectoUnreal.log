@@ -1588,3 +1588,122 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.10.04-01.06.12:496][162]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.10.04-01.06.12:496][162]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_HUD.BP_HUD
 [2024.10.04-01.06.12:497][162]AssetCheck: /Game/ThirdPerson/Blueprints/BP_HUD Validating asset
+[2024.10.04-01.10.45:106][206]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.04-01.10.45:164][206]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_HUD] ([2] browsable assets)...
+[2024.10.04-01.10.45:164][206]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_HUD]
+[2024.10.04-01.10.45:164][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_HUD" FILE="../../../../../Unreal Projects/Proyecto-Unreal-/ProyectoUnreal/Content/ThirdPerson/Blueprints/BP_HUD.uasset" SILENT=true
+[2024.10.04-01.10.45:177][206]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_HUD
+[2024.10.04-01.10.45:178][206]LogSavePackage: Moving '../../../../../Unreal Projects/Proyecto-Unreal-/ProyectoUnreal/Saved/BP_HUDE695491C416A57FB0BCF979246B27506.tmp' to '../../../../../Unreal Projects/Proyecto-Unreal-/ProyectoUnreal/Content/ThirdPerson/Blueprints/BP_HUD.uasset'
+[2024.10.04-01.10.45:188][206]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.042 ms (total: 654.509 ms)
+[2024.10.04-01.10.45:227][206]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.04-01.10.45:227][206]LogContentValidation: Enabled validators:
+[2024.10.04-01.10.45:227][206]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.04-01.10.45:227][206]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.04-01.10.45:227][206]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.04-01.10.45:227][206]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_HUD.BP_HUD
+[2024.10.04-01.10.45:227][206]AssetCheck: /Game/ThirdPerson/Blueprints/BP_HUD Validating asset
+[2024.10.04-01.11.29:223][556]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.04-01.11.29:287][556]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_HUD] ([2] browsable assets)...
+[2024.10.04-01.11.29:287][556]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_HUD]
+[2024.10.04-01.11.29:287][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_HUD" FILE="../../../../../Unreal Projects/Proyecto-Unreal-/ProyectoUnreal/Content/ThirdPerson/Blueprints/BP_HUD.uasset" SILENT=true
+[2024.10.04-01.11.29:308][556]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_HUD
+[2024.10.04-01.11.29:309][556]LogSavePackage: Moving '../../../../../Unreal Projects/Proyecto-Unreal-/ProyectoUnreal/Saved/BP_HUD5A7C994B4AEEC2B58E4C05B138A839A8.tmp' to '../../../../../Unreal Projects/Proyecto-Unreal-/ProyectoUnreal/Content/ThirdPerson/Blueprints/BP_HUD.uasset'
+[2024.10.04-01.11.29:325][556]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.125 ms (total: 756.634 ms)
+[2024.10.04-01.11.29:380][556]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.04-01.11.29:380][556]LogContentValidation: Enabled validators:
+[2024.10.04-01.11.29:380][556]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.04-01.11.29:380][556]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.04-01.11.29:380][556]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.04-01.11.29:380][556]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_HUD.BP_HUD
+[2024.10.04-01.11.29:380][556]AssetCheck: /Game/ThirdPerson/Blueprints/BP_HUD Validating asset
+[2024.10.04-01.11.43:227][896]LogEditorTransaction: Undo Add Node
+[2024.10.04-01.12.36:496][419]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2024.10.04-01.12.36:510][419]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW_Auto9
+[2024.10.04-01.12.36:510][419]LogSavePackage: Moving '../../../../../Unreal Projects/Proyecto-Unreal-/ProyectoUnreal/Saved/2QISIGK5DJNQ05US8O8FXW_Auto961E6236E4AC66837B6DB68A2F7F09FAC.tmp' to '../../../../../Unreal Projects/Proyecto-Unreal-/ProyectoUnreal/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW_Auto9.uasset'
+[2024.10.04-01.12.36:514][419]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.124
+[2024.10.04-01.12.36:514][419]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.124
+[2024.10.04-01.12.36:515][419]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_HUD] ([2] browsable assets)...
+[2024.10.04-01.12.36:515][419]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_HUD]
+[2024.10.04-01.12.36:527][419]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_HUD_Auto9
+[2024.10.04-01.12.36:527][419]LogSavePackage: Moving '../../../../../Unreal Projects/Proyecto-Unreal-/ProyectoUnreal/Saved/BP_HUD_Auto9DD9DED584253580115DB26807C9C97F4.tmp' to '../../../../../Unreal Projects/Proyecto-Unreal-/ProyectoUnreal/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_HUD_Auto9.uasset'
+[2024.10.04-01.12.36:529][419]LogFileHelpers: Auto-saving content packages took 0.015
+[2024.10.04-01.13.05:595][744]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.04-01.13.05:671][744]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_HUD] ([2] browsable assets)...
+[2024.10.04-01.13.05:671][744]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_HUD]
+[2024.10.04-01.13.05:672][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_HUD" FILE="../../../../../Unreal Projects/Proyecto-Unreal-/ProyectoUnreal/Content/ThirdPerson/Blueprints/BP_HUD.uasset" SILENT=true
+[2024.10.04-01.13.05:687][744]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_HUD
+[2024.10.04-01.13.05:688][744]LogSavePackage: Moving '../../../../../Unreal Projects/Proyecto-Unreal-/ProyectoUnreal/Saved/BP_HUDA733C869418FB48D3DE35A8A4A8232B1.tmp' to '../../../../../Unreal Projects/Proyecto-Unreal-/ProyectoUnreal/Content/ThirdPerson/Blueprints/BP_HUD.uasset'
+[2024.10.04-01.13.05:703][744]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.895 ms (total: 864.530 ms)
+[2024.10.04-01.13.05:763][744]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.04-01.13.05:763][744]LogContentValidation: Enabled validators:
+[2024.10.04-01.13.05:764][744]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.04-01.13.05:764][744]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.04-01.13.05:764][744]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.04-01.13.05:764][744]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_HUD.BP_HUD
+[2024.10.04-01.13.05:764][744]AssetCheck: /Game/ThirdPerson/Blueprints/BP_HUD Validating asset
+[2024.10.04-01.14.13:778][611]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.04-01.14.13:957][611]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_HUD] ([2] browsable assets)...
+[2024.10.04-01.14.13:957][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_HUD]
+[2024.10.04-01.14.13:957][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_HUD" FILE="../../../../../Unreal Projects/Proyecto-Unreal-/ProyectoUnreal/Content/ThirdPerson/Blueprints/BP_HUD.uasset" SILENT=true
+[2024.10.04-01.14.13:967][611]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_HUD
+[2024.10.04-01.14.13:968][611]LogSavePackage: Moving '../../../../../Unreal Projects/Proyecto-Unreal-/ProyectoUnreal/Saved/BP_HUDE03836DE4935EAF2BDE9C3AA3F849232.tmp' to '../../../../../Unreal Projects/Proyecto-Unreal-/ProyectoUnreal/Content/ThirdPerson/Blueprints/BP_HUD.uasset'
+[2024.10.04-01.14.13:979][611]LogFileHelpers: InternalPromptForCheckoutAndSave took 200.508 ms (total: 1.06 sec)
+[2024.10.04-01.14.14:027][611]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.04-01.14.14:027][611]LogContentValidation: Enabled validators:
+[2024.10.04-01.14.14:027][611]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.04-01.14.14:027][611]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.04-01.14.14:027][611]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.04-01.14.14:027][611]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_HUD.BP_HUD
+[2024.10.04-01.14.14:028][611]AssetCheck: /Game/ThirdPerson/Blueprints/BP_HUD Validating asset
+[2024.10.04-01.15.09:708][592]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.04-01.15.09:763][592]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_HUD] ([2] browsable assets)...
+[2024.10.04-01.15.09:763][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_HUD]
+[2024.10.04-01.15.09:763][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_HUD" FILE="../../../../../Unreal Projects/Proyecto-Unreal-/ProyectoUnreal/Content/ThirdPerson/Blueprints/BP_HUD.uasset" SILENT=true
+[2024.10.04-01.15.09:775][592]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_HUD
+[2024.10.04-01.15.09:776][592]LogSavePackage: Moving '../../../../../Unreal Projects/Proyecto-Unreal-/ProyectoUnreal/Saved/BP_HUD0847A69D4A5FF043874F308FCC5C7A04.tmp' to '../../../../../Unreal Projects/Proyecto-Unreal-/ProyectoUnreal/Content/ThirdPerson/Blueprints/BP_HUD.uasset'
+[2024.10.04-01.15.09:807][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.319 ms (total: 1.16 sec)
+[2024.10.04-01.15.09:841][592]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.04-01.15.09:841][592]LogContentValidation: Enabled validators:
+[2024.10.04-01.15.09:841][592]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.04-01.15.09:841][592]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.04-01.15.09:841][592]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.04-01.15.09:841][592]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_HUD.BP_HUD
+[2024.10.04-01.15.09:841][592]AssetCheck: /Game/ThirdPerson/Blueprints/BP_HUD Validating asset
+[2024.10.04-01.19.07:660][340]LogDerivedDataCache: C:/Users/TELCOM MPC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.10.04-01.19.41:189][889]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2024.10.04-01.20.05:691][846]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-01.20.05:697][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-01.20.05:816][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2024.10.04-01.21.01:795][215]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.04-01.21.01:859][215]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_HUD] ([2] browsable assets)...
+[2024.10.04-01.21.01:859][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_HUD]
+[2024.10.04-01.21.01:859][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_HUD" FILE="../../../../../Unreal Projects/Proyecto-Unreal-/ProyectoUnreal/Content/ThirdPerson/Blueprints/BP_HUD.uasset" SILENT=true
+[2024.10.04-01.21.01:880][215]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_HUD
+[2024.10.04-01.21.01:882][215]LogSavePackage: Moving '../../../../../Unreal Projects/Proyecto-Unreal-/ProyectoUnreal/Saved/BP_HUDF5F408BD4F61043818383590B59F6AA4.tmp' to '../../../../../Unreal Projects/Proyecto-Unreal-/ProyectoUnreal/Content/ThirdPerson/Blueprints/BP_HUD.uasset'
+[2024.10.04-01.21.01:894][215]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.763 ms (total: 1.26 sec)
+[2024.10.04-01.21.01:956][215]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.04-01.21.01:957][215]LogContentValidation: Enabled validators:
+[2024.10.04-01.21.01:957][215]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.04-01.21.01:957][215]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.04-01.21.01:957][215]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.04-01.21.01:957][215]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_HUD.BP_HUD
+[2024.10.04-01.21.01:957][215]AssetCheck: /Game/ThirdPerson/Blueprints/BP_HUD Validating asset
+[2024.10.04-01.22.36:877][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.10.04-01.22.36:881][146]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.033
+[2024.10.04-01.22.36:882][146]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode] ([2] browsable assets)...
+[2024.10.04-01.22.36:882][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode]
+[2024.10.04-01.22.36:895][146]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode_Auto0
+[2024.10.04-01.22.36:895][146]LogSavePackage: Moving '../../../../../Unreal Projects/Proyecto-Unreal-/ProyectoUnreal/Saved/BP_ThirdPersonGameMode_Auto0A8AE9978492CE9B931C5219A22EBFFCA.tmp' to '../../../../../Unreal Projects/Proyecto-Unreal-/ProyectoUnreal/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode_Auto0.uasset'
+[2024.10.04-01.22.36:897][146]LogFileHelpers: Auto-saving content packages took 0.016
+[2024.10.04-01.27.04:729][803]LogSlate: Window 'BP_HUD' being destroyed
+[2024.10.04-01.27.04:741][803]LogSlate: Window 'BP_HUD' being destroyed
+[2024.10.04-01.27.04:836][803]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-01.27.04:837][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-01.27.04:974][803]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-01.27.04:974][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-01.27.04:988][803]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-01.27.04:989][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-01.27.05:053][803]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.10.04-01.27.05:053][803]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-01.27.05:053][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-01.27.05:145][803]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
