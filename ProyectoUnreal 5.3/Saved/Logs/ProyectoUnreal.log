@@ -8622,3 +8622,18 @@ Lever2
 [2024.10.04-19.14.51:721][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
 [2024.10.04-19.14.51:737][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
 [2024.10.04-19.14.51:745][159]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 4.24 sec)
+[2024.10.04-19.15.29:276][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.10.04-19.15.29:278][647]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.015
+[2024.10.04-19.15.29:279][647]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/BP_SpawnerReferences] ([2] browsable assets)...
+[2024.10.04-19.15.29:279][647]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/BP_SpawnerReferences]
+[2024.10.04-19.15.29:302][647]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/BP_SpawnerReferences_Auto8
+[2024.10.04-19.15.29:302][647]LogSavePackage: Moving '../../../../../../Descargas/Unreal/Proyecto-Unreal-/ProyectoUnreal 5.3/Saved/BP_SpawnerReferences_Auto81474C8F24DB78DD69F74119D86C5F801.tmp' to '../../../../../../Descargas/Unreal/Proyecto-Unreal-/ProyectoUnreal 5.3/Saved/Autosaves/Game/LevelPrototyping/BP_SpawnerReferences_Auto8.uasset'
+[2024.10.04-19.15.29:303][647]LogFileHelpers: Auto-saving content packages took 0.025
+[2024.10.04-19.16.31:068][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.10.04-19.16.32:441][ 51]LogSlate: Window 'Save Content' being destroyed
+[2024.10.04-19.16.32:448][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.04-19.16.32:513][ 51]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/BP_SpawnerReferences
+[2024.10.04-19.16.32:513][ 51]LogSavePackage: Moving '../../../../../../Descargas/Unreal/Proyecto-Unreal-/ProyectoUnreal 5.3/Saved/BP_SpawnerReferences6C66E4F6466EF1A7C2AF46A0604DEE37.tmp' to '../../../../../../Descargas/Unreal/Proyecto-Unreal-/ProyectoUnreal 5.3/Content/LevelPrototyping/BP_SpawnerReferences.uasset'
+[2024.10.04-19.16.32:541][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 4.34 sec)
+[2024.10.04-19.16.32:542][ 51]AssetCheck: New page: Asset Save: BP_SpawnerReferences
+[2024.10.04-19.16.32:542][ 51]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LevelPrototyping/BP_SpawnerReferences.BP_SpawnerReferences
