@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Unreal Projects/Proyecto-Unreal-/ProyectoUnreal/Content/ThirdPerson/Blueprints/WBP_InGameHud.uasset",
+				"D:/Unreal Projects/Proyecto-Unreal-/ProyectoUnreal/Content/ThirdPerson/Blueprints/BP_HUD.uasset",
 				"D:/Proyecto Unreal/PeraltaPolichVintar/Proyecto-Unreal-/ProyectoUnreal/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"D:/Proyecto Unreal/PeraltaPolichVintar/Proyecto-Unreal-/ProyectoUnreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HE/E673AYI9Q6O0MEZC4N6VC4.uasset",
 				"D:/Proyecto Unreal/PeraltaPolichVintar/Proyecto-Unreal-/ProyectoUnreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
