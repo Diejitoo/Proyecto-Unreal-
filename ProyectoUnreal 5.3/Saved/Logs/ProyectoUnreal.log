@@ -2638,3 +2638,57 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.10.04-15.49.46:282][594]LogSlate: Window 'BP_ShaderInteractuable' being destroyed
 [2024.10.04-15.49.46:299][594]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
 [2024.10.04-15.49.46:299][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-15.51.09:593][971]LogSlate: Window 'Message' being destroyed
+[2024.10.04-15.51.09:604][971]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/ThirdPerson/Blueprints/ShaderInteractuableObjects.ShaderInteractuableObjects
+(Selecting 'No' will cause all changes to be lost!)
+[2024.10.04-15.51.09:994][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.10.04-15.51.10:154][971]LogShaderCompilers: Display: ================================================
+[2024.10.04-15.51.10:154][971]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.04-15.51.10:154][971]LogShaderCompilers: Display: Total job queries 4249, among them cache hits 324 (7.63%)
+[2024.10.04-15.51.10:154][971]LogShaderCompilers: Display: Tracking 3919 distinct input hashes that result in 2754 distinct outputs (70.27%)
+[2024.10.04-15.51.10:154][971]LogShaderCompilers: Display: RAM used: 72,95 MiB of 716,80 MiB budget. Usage: 10.18%
+[2024.10.04-15.51.10:154][971]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.04-15.51.10:154][971]LogShaderCompilers: Display: Shaders Compiled: 3919
+[2024.10.04-15.51.10:154][971]LogShaderCompilers: Display: Jobs assigned 3919, completed 3919 (100%)
+[2024.10.04-15.51.10:154][971]LogShaderCompilers: Display: Average time worker was idle: 14.51 s
+[2024.10.04-15.51.10:154][971]LogShaderCompilers: Display: Time job spent in pending queue: average 228.54 s, longest 507.19 s
+[2024.10.04-15.51.10:154][971]LogShaderCompilers: Display: Job execution time: average 7.04 s, max 36.99 s
+[2024.10.04-15.51.10:154][971]LogShaderCompilers: Display: Job life time (pending + execution): average 235.58 s, max 526.36
+[2024.10.04-15.51.10:154][971]LogShaderCompilers: Display: Shader code size: average 38,155 KiB, min 2,086 KiB, max 162,84 KiB
+[2024.10.04-15.51.10:154][971]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 649.43 s
+[2024.10.04-15.51.10:154][971]LogShaderCompilers: Display: Jobs were issued in 670 batches (only local compilation was used), average 5.85 jobs/batch
+[2024.10.04-15.51.10:154][971]LogShaderCompilers: Display: Average processing rate: 6.03 jobs/sec
+[2024.10.04-15.51.10:154][971]LogShaderCompilers: Display: Total thread time: 2929,002 s
+[2024.10.04-15.51.10:154][971]LogShaderCompilers: Display: Total thread preprocess time: 184,943 s
+[2024.10.04-15.51.10:154][971]LogShaderCompilers: Display: Percentage time preprocessing: 6.31%
+[2024.10.04-15.51.10:154][971]LogShaderCompilers: Display: Effective parallelization: 4.51 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.10.04-15.51.10:154][971]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.04-15.51.10:154][971]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 8.48 sec, max 16.15 sec, min 2.26 sec)
+[2024.10.04-15.51.10:155][971]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 7.38 sec, max 9.82 sec, min 4.97 sec)
+[2024.10.04-15.51.10:155][971]LogShaderCompilers: Display:                                        FCloudRenderViewPS100 (compiled    1 times, average 5.52 sec, max 5.52 sec, min 5.52 sec)
+[2024.10.04-15.51.10:155][971]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   34 times, average 3.79 sec, max 11.86 sec, min 0.92 sec)
+[2024.10.04-15.51.10:155][971]LogShaderCompilers: Display:                                        FCloudRenderViewPS101 (compiled    1 times, average 3.60 sec, max 3.60 sec, min 3.60 sec)
+[2024.10.04-15.51.10:155][971]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.04-15.51.10:155][971]LogShaderCompilers: Display:                                             FDeferredLightPS - 10.40% of total time (compiled  134 times, average 2.27 sec, max 5.97 sec, min 1.61 sec)
+[2024.10.04-15.51.10:155][971]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.47% of total time (compiled   96 times, average 1.67 sec, max 4.21 sec, min 0.91 sec)
+[2024.10.04-15.51.10:155][971]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.50% of total time (compiled   96 times, average 1.37 sec, max 2.56 sec, min 0.36 sec)
+[2024.10.04-15.51.10:155][971]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 4.40% of total time (compiled   34 times, average 3.79 sec, max 11.86 sec, min 0.92 sec)
+[2024.10.04-15.51.10:155][971]LogShaderCompilers: Display:                                     FReflectionTraceVoxelsCS - 4.07% of total time (compiled   96 times, average 1.24 sec, max 5.37 sec, min 0.48 sec)
+[2024.10.04-15.51.10:155][971]LogShaderCompilers: Display: ================================================
+[2024.10.04-15.51.10:180][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.10.04-15.51.10:245][971]LogSlate: Window 'MI_Interactuable' being destroyed
+[2024.10.04-15.51.10:248][971]LogSlate: Window 'MI_Interactuable' being destroyed
+[2024.10.04-15.51.10:302][971]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-15.51.10:302][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-15.51.10:339][971]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.10.04-15.51.10:339][971]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-15.51.10:339][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-15.51.10:439][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.10.04-15.51.10:520][971]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2024.10.04-15.51.10:564][971]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-15.51.10:564][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-15.51.10:616][971]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-15.51.10:616][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-15.51.10:670][971]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-15.51.10:670][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
